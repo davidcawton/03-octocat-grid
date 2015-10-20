@@ -3,7 +3,8 @@ html {
   box-sizing: border-box;
   backgound: white;
   color: rgb(218, 218, 218);
-  font-size: 1.1rem;
+  font-size: 1rem;
+  font-family: sans-serif;
 
 }
 *, *:before, *:after {
@@ -17,6 +18,11 @@ body {
 strong {
   color: #000000;
 }
+
+hr {
+  margin: 0;
+}
+
 
 .picture {
   width: 300px;
@@ -37,9 +43,14 @@ strong {
 .author-avatar {
   display: inline;
   float: right;
+  margin: 12.2px 0 5px;
 }
 
 .avatar {
   width: 20px;
   height: 20px;
+  vertical-align: text-bottom;
+}
+
+.author-avatar .number {
 }
