@@ -23,7 +23,6 @@ hr {
   margin: 0;
 }
 
-
 .picture {
   width: 300px;
   border: solid rgb(218, 218, 218) 1px;
@@ -34,7 +33,6 @@ hr {
   float: left;
   padding: 10px;
 }
-
 
 .number {
   display: inline-block;
@@ -50,7 +48,4 @@ hr {
   width: 20px;
   height: 20px;
   vertical-align: text-bottom;
-}
-
-.author-avatar .number {
 }
